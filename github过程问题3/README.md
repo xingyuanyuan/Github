@@ -9,7 +9,7 @@
 因为他们是两个不同的项目，要把两个不同的项目合并，git需要添加一句代码，在git pull后面加上--allow-unrelated-histories
 
 ```
-git pull orign master --allow-unrelated-histories
+git pull origin master --allow-unrelated-histories
 ```
 
 ![](2.jpg)
